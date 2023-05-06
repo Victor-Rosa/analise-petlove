@@ -2,7 +2,7 @@
 
 
 
-<img src="./images/logo_01.png" alt="exemplo imagem">
+<img src="./images/logo-01.png" alt="exemplo imagem">
 
 
 > **Case de Dados**:
